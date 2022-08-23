@@ -1,2 +1,2 @@
 My second commit
-my change i my file
+my change in my file
